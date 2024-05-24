@@ -1,0 +1,49 @@
+{
+    "result": [
+        {
+            "no": "1",
+            "name": "Raiden Shogun",
+            "birth_date": "Electro",
+            "Position": "Sword",
+            "International": "Inazuma",
+            "Team": "Internasional Team Comp",
+            "Poster": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Beidou_Card.png/revision/latest?cb=20220725204858"
+        },
+        {
+            "no": "2",
+            "name": "Yae Miko",
+            "birth_date": "Electro",
+            "Position": "Catalyst",
+            "International": "Inazuma",
+            "Team": "Agravate team Comp",
+            "Poster": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Bennett_Card.png/revision/latest?cb=20220725204904"
+        },
+        {
+            "no": "3",
+            "name": "Ayaka",
+            "birth_date": "Cryo",
+            "Position": "Sword",
+            "International": "Inazuma",
+            "Team": "Freeze Team Comp",
+            "Poster": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Amber_Card.png/revision/latest?cb=20220725204839"
+        },
+        {
+            "no": "4",
+            "name": "Yoimiya",
+            "birth_date": "Pyro",
+            "Position": "Bow",
+            "International": "Inazuma",
+            "Team": "Vaporize Team Comp",
+            "Poster": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/Kaeya_Card.png/revision/latest?cb=20220725205013"
+        },
+        {
+            "no": "5",
+            "name": "Arataki Itto",
+            "birth_date": "Geo",
+            "Position": "Claymore",
+            "International": "Inazuma",
+            "Team": "Mono Geo",
+            "Poster": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Lisa_Card.png/revision/latest?cb=20220725205045"
+        }
+    ]
+}
